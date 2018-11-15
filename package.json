@@ -8,5 +8,18 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/core": "^7.0.0-0",
+    "@babel/preset-env": "^7.1.5",
+    "@babel/preset-react": "^7.0.0"
+  },
+  "dependencies": {
+    "constants": "^0.0.2",
+    "price": "^0.1.1",
+    "react": "^16.0.0",
+    "react-dom": "^16.6.1",
+    "reactstrap": "^6.5.0",
+    "textbox": "^0.0.2"
+  }
 }
